@@ -1,0 +1,23 @@
+# QuickQuiz
+
+QuickQuiz is a console-based quiz application developed for
+INEW 2332 / ITSE 2359. The program presents multiple-choice
+questions, validates user input, tracks scores, and allows
+replay.
+
+## Technologies
+- Java (Eclipse IDE)
+- C# (.NET, Visual Studio)
+
+## How to Run (Java - Eclipse)
+1. Open project in Eclipse
+2. Run Main.java as Java Application
+3. Follow prompts in the console
+
+## How to Run (C# - Visual Studio)
+1. Open solution in Visual Studio
+2. Run Program.cs
+3. Follow prompts in the console
+
+## Author
+Jessica Salazar
